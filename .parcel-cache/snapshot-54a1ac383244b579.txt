@@ -10,7 +10,7 @@
 57D:\GoIT\Projects\test\node_modules\resolve-from\readme.md133725218346661822 0
 94D:\GoIT\Projects\test\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133725218354053697 0
 79D:\GoIT\Projects\test\node_modules\utility-types\dist\functional-helpers.js.map133725218349390790 0
-26D:\GoIT\Projects\test\dist133725224013602274 1
+26D:\GoIT\Projects\test\dist133725227471275477 1
 87D:\GoIT\Projects\test\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133725218359884044 0
 65D:\GoIT\Projects\test\node_modules\csso\node_modules\mdn-data\css133725218354353118 1
 67D:\GoIT\Projects\test\node_modules\svgo\plugins\convertTransform.js133725218357141839 0
@@ -92,7 +92,7 @@
 69D:\GoIT\Projects\test\node_modules\utility-types\dist\mapped-types.js133725218347326191 0
 95D:\GoIT\Projects\test\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\jsAPI.d.ts133725218358791769 0
 60D:\GoIT\Projects\test\node_modules\css-tree\cjs\syntax\scope133725218360232591 1
-36D:\GoIT\Projects\test\src\index.html133725224011489622 0
+36D:\GoIT\Projects\test\src\index.html133725227471012335 0
 60D:\GoIT\Projects\test\node_modules\@parcel\transformer-babel133725218352919176 1
 70D:\GoIT\Projects\test\node_modules\@parcel\workers\src\web\WebChild.js133725218355496660 0
 83D:\GoIT\Projects\test\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133725218352979886 0
@@ -5901,4 +5901,4 @@
 50D:\GoIT\Projects\test\.github\workflows\deploy.yml133725216167075723 0
 44D:\GoIT\Projects\test\dist\index.975ef6c8.js133725219724323423 0
 48D:\GoIT\Projects\test\dist\index.975ef6c8.js.map133725219724343559 0
-37D:\GoIT\Projects\test\dist\index.html133725224013592247 0
+37D:\GoIT\Projects\test\dist\index.html133725227471265497 0
