@@ -45,7 +45,7 @@
 42D:\GoIT\Projects\test\node_modules\timsort133725218348957820 1
 79D:\GoIT\Projects\test\node_modules\css-tree\cjs\syntax\node\GeneralEnclosed.cjs133725218355790958 0
 70D:\GoIT\Projects\test\node_modules\css-tree\cjs\syntax\scope\value.cjs133725218360242586 0
-34D:\GoIT\Projects\test\package.json133725219722615867 0
+34D:\GoIT\Projects\test\package.json133725220782808424 0
 45D:\GoIT\Projects\test\node_modules\base-x\src133725218347272494 1
 84D:\GoIT\Projects\test\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133725218349440776 0
 105D:\GoIT\Projects\test\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\package.json133725218347632289 0
