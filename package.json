@@ -1,0 +1,25 @@
+{
+	"name": "test",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://IrynaSokolova-Quanandrya.github.io/test/",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel src/*html",
+		"build": "parcel build src/*html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/IrynaSokolova-Quanandrya/test.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/IrynaSokolova-Quanandrya/test/issues"
+	},
+	"homepage": "https://github.com/IrynaSokolova-Quanandrya/test#readme",
+	"dependencies": {
+		"parcel": "^2.12.0"
+	}
+}
