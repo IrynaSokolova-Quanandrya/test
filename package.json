@@ -1,8 +1,9 @@
 {
-	"name": "templating",
-	"homepage": "https://IrynaSokolova-Quanandrya.github.io/test/",
+	"name": "test",
+	"homepage": "https://IrynaSokolova-Quanandrya.github.io/test",
 	"version": "1.0.0",
 	"description": "",
+	"main": "index.js",
 	"scripts": {
 		"start": "parcel src/*.html",
 		"build": "parcel build src/*.html"
