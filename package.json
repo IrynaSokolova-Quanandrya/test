@@ -1,23 +1,21 @@
 {
-	"name": "test",
+	"name": "templating",
+	"homepage": "https://IrynaSokolova-Quanandrya.github.io/test/",
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
-		"start": "parcel src/*html",
-		"build": "parcel build src/*html"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/IrynaSokolova-Quanandrya/test.git"
+		"start": "parcel src/*.html",
+		"build": "parcel build src/*.html"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/IrynaSokolova-Quanandrya/test/issues"
-	},
-	"homepage": "https://github.com/IrynaSokolova-Quanandrya/test",
 	"dependencies": {
-		"parcel": "^2.12.0"
+		"handlebars": "^4.7.8",
+		"parcel": "^2.12.0",
+		"parcel-transformer-hbs": "^1.0.4"
+	},
+	"devDependencies": {
+		"parcel-reporter-clean-dist": "^1.0.4"
 	}
 }
