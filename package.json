@@ -7,8 +7,8 @@
 	"scripts": {
 		"start": "parcel",
 		"build": "parcel build",
-    "predeploy": "parcel build ./*.html --public-url 'https://IrynaSokolova-Quanandrya.github.io/test'",
-    "deploy": "gh-pages -d dist"
+		"predeploy": "parcel build src/*.html --public-url 'https://IrynaSokolova-Quanandrya.github.io/test'",
+		"deploy": "gh-pages -d dist"
 	},
 	"keywords": [],
 	"author": "",
