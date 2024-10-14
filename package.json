@@ -6,12 +6,15 @@
 	"source": "src/index.html",
 	"scripts": {
 		"start": "parcel",
-		"build": "parcel build"
+		"build": "parcel build",
+    "predeploy": "parcel build ./*.html --public-url 'https://IrynaSokolova-Quanandrya.github.io/test'",
+    "deploy": "gh-pages -d dist"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"gh-pages": "^6.2.0",
 		"handlebars": "^4.7.8",
 		"parcel": "^2.12.0",
 		"parcel-transformer-hbs": "^1.0.4"
