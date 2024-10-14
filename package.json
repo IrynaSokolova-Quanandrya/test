@@ -6,7 +6,7 @@
 	"source": "src/index.html",
 	"scripts": {
 		"start": "parcel",
-		"build": "parcel build src/*.html --public-url 'https://IrynaSokolova-Quanandrya.github.io/test'",
+		"build": "parcel build --public-url 'https://IrynaSokolova-Quanandrya.github.io/test'",
 		"predeploy": "npm build",
 		"deploy": "gh-pages -d dist"
 	},
